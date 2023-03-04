@@ -14,7 +14,7 @@ void push(int n){
     stack[top] = n;
 }
 
-int pop(){
+void pop(){
     if(top == -1){
         printf("Stack is empty!!\n");
         return;
@@ -58,7 +58,7 @@ void main(){
                 pop();
                 break;
             case 3:
-                display();
+                displayStack();
                 break;
             case 4:
                 printf("You are out of the program\n");
