@@ -37,14 +37,13 @@ void displayStack(){
 
 void main(){
     int a,choice;
-
     printf("Stack Using Array\n");
     printf("OPERATIONS  \n");
     printf("1. Push\n");
     printf("2. Pop\n");
     printf("3. Display Stack\n");
     printf("4. Exit\n");
-    int flag = 1;
+
     do{
         printf("Enter your choice: ");
         scanf("%d",&choice);
