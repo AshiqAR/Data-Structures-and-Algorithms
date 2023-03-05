@@ -1,2 +1,2 @@
 # KTU_S3_DSLab
-implementation of programs for data structures lab
+You can find most of the data structures programs
