@@ -1,3 +1,5 @@
+// create a binary search tree taking level wise input
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <unistd.h>

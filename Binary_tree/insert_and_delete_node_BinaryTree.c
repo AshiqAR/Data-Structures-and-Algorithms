@@ -60,7 +60,7 @@ struct node* delete(struct node* root,int x){
         return root;
     }
     struct node* curr;
-    if(parent->left->data == x){
+    if(parent->left != NULL && parent->left->data == x){
         curr = parent->left;
         struct node* lchild = curr->left;
         struct node* rchild = curr->right;
