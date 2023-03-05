@@ -1,2 +1,2 @@
 # KTU_S3_DSLab
-You can find most of the data structures programs
+You can find most of the data structures programs in C
