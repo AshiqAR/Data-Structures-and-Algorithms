@@ -4,6 +4,7 @@
 #include <stdio.h>
 #include <unistd.h>
 #include <stdlib.h>
+#define MAX 50
 
 struct adjlist{
     struct node* pointer;           //pointer to node list
@@ -15,8 +16,9 @@ struct node{
     struct adjlist* adj;
     struct node* next;
 };
-int arr[20];
-int adjMat[20][20];
+
+int arr[MAX];
+int adjMat[MAX][MAX];
 int count = 0;
 
 struct node* getnode(int n){
