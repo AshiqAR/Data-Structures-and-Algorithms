@@ -29,6 +29,7 @@ int partition(int arr[],int beg,int end){
             }
         }
     }
+    return p;
 }
 
 void quickSort(int arr[],int beg,int end){
