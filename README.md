@@ -1,6 +1,15 @@
 # KTU_S3_DSLab
 You can find most of the data structures programs implemented in C
 
+## Exercises
+1. Implement a doubly linked list in C
+2. Write a C program to evaluate a post fix expression
+3. Write a C program to convert an infix expression to postfix expression
+4. Implement a C program to represent Polynomial using Linked List
+5. Implement a C program to represent Polynomial Sum using Linked List
+6. Polynomial Representaion using Arrays
+7. Sparse matrix representaion in C and Operations on Normal form
+
 ### Sorting
 1. Bubble Sort
 2. Insertion Sort
@@ -41,12 +50,6 @@ You can find most of the data structures programs implemented in C
 
 ### File Handling
 1. Implement a file handling program in C
-
-
-
-
-
-
 
 
 ## Contributions
