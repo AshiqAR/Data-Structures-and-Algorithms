@@ -21,12 +21,14 @@ You can find most of the data structures programs implemented in C
 ### Linked List
 1. Linked List implementation in C
 2. Polynomial representation in Linked list
+3. Reverse a LinkedList
 
 ### Stack
 1. Stack using arrays
 2. Stack using Linked List
 3. Convert infix expression to postfix expression
 4. Evaluate postfix expression
+5. Reverse a stack using recursion
 
 ### Queue
 1. Implement a queue using arrays
